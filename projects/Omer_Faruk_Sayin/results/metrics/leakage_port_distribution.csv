@@ -1,0 +1,16 @@
+﻿Class,Top destination ports
+Normal (BENIGN),"53 (46.3%), 443 (24.6%), 80 (11.4%), 123 (1.1%), 22 (0.4%)"
+DoS Hulk,80 (100.0%)
+DDoS,"80 (100.0%), 64869 (0.0%), 64873 (0.0%)"
+DoS GoldenEye,80 (100.0%)
+FTP-Patator,"21 (100.0%), 80 (0.0%)"
+DoS slowloris,80 (100.0%)
+DoS Slowhttptest,80 (100.0%)
+SSH-Patator,22 (100.0%)
+PortScan,"80 (20.1%), 22 (13.1%), 21 (13.1%)"
+Web Attack - Brute Force,80 (100.0%)
+Bot,"8080 (88.2%), 1841 (0.1%), 1845 (0.1%)"
+Web Attack - XSS,80 (100.0%)
+Infiltration,444 (100.0%)
+Web Attack - Sql Injection,80 (100.0%)
+Heartbleed,444 (100.0%)

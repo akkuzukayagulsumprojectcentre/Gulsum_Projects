@@ -1,0 +1,16 @@
+﻿Class,Records,Share (%)
+BENIGN,1893759,84.93
+DoS Hulk,172554,7.7386
+DDoS,127992,5.7401
+DoS GoldenEye,10281,0.4611
+FTP-Patator,5927,0.2658
+DoS slowloris,5383,0.2414
+DoS Slowhttptest,5228,0.2345
+SSH-Patator,3217,0.1443
+PortScan,1850,0.083
+Web Attack - Brute Force,1470,0.0659
+Bot,1412,0.0633
+Web Attack - XSS,652,0.0292
+Infiltration,35,0.0016
+Web Attack - Sql Injection,21,0.0009
+Heartbleed,7,0.0003

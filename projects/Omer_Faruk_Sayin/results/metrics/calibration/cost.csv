@@ -1,0 +1,4 @@
+﻿Model,Training time (s),Inference (µs / flow),Throughput (flows / s)
+Random Forest,113.1 ± 4.3,1.54 ± 0.04,"649,036 ± 18,497"
+XGBoost,24.9 ± 0.3,0.79 ± 0.04,"1,260,260 ± 64,074"
+MLP,60.7 ± 17.0,0.19 ± 0.01,"5,189,156 ± 231,563"

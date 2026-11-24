@@ -1,0 +1,8 @@
+﻿Step,Rows removed,Columns removed,Rows remaining,Note
+Infinite / missing values,2867,0,2827876,"4,376 infinite values converted to missing"
+Negative values,2925,0,2824951,Negative values found in 11 columns
+Constant columns,0,8,2824951,"Bwd PSH Flags, Bwd URG Flags, Fwd Avg Bytes/Bulk, Fwd Avg Packets/Bulk, Fwd Avg Bulk Rate, Bwd Avg Bytes/Bulk, Bwd Avg Packets/Bulk, Bwd Avg Bulk Rate"
+Duplicate columns,0,5,2824951,"SYN Flag Count, CWE Flag Count, Fwd Header Length.1, Subflow Fwd Packets, Subflow Bwd Packets"
+Destination Port,0,1,2824951,Identifier feature; used only in the leakage analysis
+Label conflicts,82458,0,2742493,Identical features labelled both benign and attack
+Duplicate rows,512705,0,2229788,Rows with identical features deduplicated

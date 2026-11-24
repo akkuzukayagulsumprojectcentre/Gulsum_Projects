@@ -1,0 +1,8 @@
+﻿Constraint,Satisfied
+No negative values in modified features,✓
+Values within the training range,✓
+Integer features remain integers,✓
+"Packet counts, flags and backward sizes unchanged",✓
+Size and time features only increased,✓
+Fwd min ≤ mean ≤ max order preserved,✓
+Max Packet Length ≥ Fwd Packet Length Max,✓

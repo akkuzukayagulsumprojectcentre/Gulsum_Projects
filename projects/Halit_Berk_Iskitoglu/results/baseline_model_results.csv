@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,False Negative
+Random Forest,0.9991,0.9995,0.9995,0.9995,0.9999,29
+LightGBM,0.999,0.9998,0.9991,0.9995,0.9999,51
+XGBoost,0.999,0.9998,0.9991,0.9995,1.0,52
+MLP,0.997,0.9993,0.9977,0.9985,0.9997,134
+Logistic Regression,0.9886,0.9999,0.9884,0.9941,0.9979,677

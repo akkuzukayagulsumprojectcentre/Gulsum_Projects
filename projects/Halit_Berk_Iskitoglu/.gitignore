@@ -1,0 +1,11 @@
+# Büyük veri dosyaları (GitHub 100 MB sınırı)
+data/
+notebooks/data/processed/
+*.parquet
+*.pcap
+# Büyük model
+notebooks/models/final_attack_detection_model.joblib
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/

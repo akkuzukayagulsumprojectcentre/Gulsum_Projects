@@ -1,0 +1,15 @@
+﻿Class,Records,Share (%)
+Benign,1471804,84.8684
+DDOS attack-HOIC,77515,4.4697
+DoS attacks-Hulk,65687,3.7877
+Bot,43711,2.5205
+Infilteration,30700,1.7702
+SSH-Bruteforce,28364,1.6355
+DoS attacks-GoldenEye,12543,0.7233
+DoS attacks-Slowloris,2989,0.1724
+DDOS attack-LOIC-UDP,536,0.0309
+Brute Force -Web,180,0.0104
+Brute Force -XSS,77,0.0044
+DoS attacks-SlowHTTPTest,51,0.0029
+FTP-BruteForce,37,0.0021
+SQL Injection,25,0.0014

@@ -1,0 +1,7 @@
+﻿Dataset,Rank,Model,Relative F1 drop (%),Missed attack increase (pp),Robustness score
+CIC-IDS2017,1,MLP,0.41 ± 0.14,0.79 ± 0.27,0.9956 ± 0.0020
+CIC-IDS2017,2,XGBoost,1.04 ± 0.10,2.04 ± 0.19,0.9901 ± 0.0004
+CIC-IDS2017,3,Random Forest,4.07 ± 1.82,7.73 ± 3.37,0.9663 ± 0.0031
+CSE-CIC-IDS2018,1,XGBoost,0.66 ± 0.11,1.09 ± 0.18,0.9837 ± 0.0042
+CSE-CIC-IDS2018,2,Random Forest,7.40 ± 0.85,11.47 ± 1.25,0.9609 ± 0.0028
+CSE-CIC-IDS2018,3,MLP,18.97 ± 0.17,26.79 ± 0.18,0.9102 ± 0.0078

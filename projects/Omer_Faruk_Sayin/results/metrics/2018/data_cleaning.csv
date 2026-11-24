@@ -1,0 +1,5 @@
+﻿Step,Rows removed,Rows remaining,Note
+Infinite / missing values,10869,2474387,"14,861 infinite values converted to missing"
+Negative values,6,2474381,"Duration, size and rate cannot be negative"
+Label conflicts,68524,2405857,Identical features labelled both benign and attack
+Duplicate rows,671638,1734219,Rows with identical features deduplicated
